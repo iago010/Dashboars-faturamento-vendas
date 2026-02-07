@@ -44,7 +44,7 @@ Este projeto foi criado para fins educacionais, com foco em:
 ---
 
 ## 🚀 Como Usar
-1. Abra o arquivo `Dashboars de valores de vendas.xlsx` no Excel.  
+1. Abra o arquivo `Dashboars de faturamento de vendas.xlsx` no Excel.  
 2. Explore as abas de **Bases**, **Cálculos** e **Dashboard**.  
 3. Utilize as segmentações de dados para filtrar informações e observar como os gráficos se atualizam.  
 
